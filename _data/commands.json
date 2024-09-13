@@ -1032,8 +1032,8 @@
       "isBalance": false,
       "hasGlobalCooldown": false,
       "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
+      "hasLocalCooldown": true,
+      "localCooldown": 30,
       "mod": "ToolkitUtils"
     },
     "description": "Makes your pawn insult a random pawn. If a viewer is specified, you'll insult them instead.",
@@ -1086,8 +1086,8 @@
       "isBalance": false,
       "hasGlobalCooldown": false,
       "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
+      "hasLocalCooldown": true,
+      "localCooldown": 30,
       "mod": "ToolkitUtils"
     },
     "description": "Makes your pawn have a deep chat a random pawn. If a viewer is specified, you'll have a deep chat with their pawn instead.",

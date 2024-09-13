@@ -120,12 +120,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Dutchman",
-    "name": "Adaptive Storage Patch - Medieval Overhaul",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Imranfish",
     "name": "XML Extensions",
     "steamId": "2574315206",
@@ -154,6 +148,18 @@
     "name": "Rimedieval",
     "steamId": "2516523040",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Evil Eye Guy",
+    "name": "Medieval Overhaul: Royalty",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Dutchman",
+    "name": "Adaptive Storage Patch - Medieval Overhaul",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Sky",
@@ -264,12 +270,6 @@
     "version": null
   },
   {
-    "author": "Evil Eye Guy",
-    "name": "Medieval Overhaul: Royalty",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Rince",
     "name": "Medieval Go-juice",
     "steamId": null,
@@ -320,8 +320,8 @@
   {
     "author": "Viral Reaction",
     "name": "Medieval Overhaul Patches",
-    "steamId": null,
-    "version": null
+    "steamId": "3015529451",
+    "version": "1.0.0.0"
   },
   {
     "author": "Smash Phil",
@@ -1032,6 +1032,12 @@
     "version": null
   },
   {
+    "author": "SirLalaPyon",
+    "name": "Medieval Genepacks",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Sierra",
     "name": "RimTraits: Vanilla Trait Colors",
     "steamId": null,
@@ -1304,6 +1310,42 @@
   {
     "author": "Oskar Potocki",
     "name": "Vanilla Storytellers Expanded - Perry Persistent",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "m00nl1ght",
+    "name": "Prepare Landing for 1.5",
+    "steamId": "3221125358",
+    "version": "1.5.0"
+  },
+  {
+    "author": "Jaxe",
+    "name": "RimHUD",
+    "steamId": "1508850027",
+    "version": "1.15.3.0"
+  },
+  {
+    "author": "Oskar Potocki, Trunken and XeoNovaDan",
+    "name": "Vanilla Furniture Expanded - Security",
+    "steamId": "1845154007",
+    "version": "1.1.1.0"
+  },
+  {
+    "author": "Epicguru",
+    "name": "Melee Animation",
+    "steamId": "2944488802",
+    "version": "1.0.0+d7c9c0e61b34ce06f49aa5ac948cb8158390ade8"
+  },
+  {
+    "author": "turkler",
+    "name": "Melee Animations - No bloat",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "DDJY",
+    "name": "Medieval Gene Assembler",
     "steamId": null,
     "version": null
   }
